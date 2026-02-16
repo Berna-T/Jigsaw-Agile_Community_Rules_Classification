@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.csv
+*.pt
+*.pkl
+*.npz
+
+data/
+distilbert-5channel-final/
